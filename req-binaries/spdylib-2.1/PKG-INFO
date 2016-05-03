@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: spdylib
+Version: 2.1
+Summary: Spdy library for version 2 & 3
+Home-page: UNKNOWN
+Author: Ashish Gupta
+Author-email: ashish049@gmail.com
+License: UNKNOWN
+Description: Inspired by Colin Mark's implementation at https://github.com/colinmarc/python-spdy
+Platform: UNKNOWN
+Requires: Cython (>=0.15.1)
+Requires: bitarray (>=0.7.0)

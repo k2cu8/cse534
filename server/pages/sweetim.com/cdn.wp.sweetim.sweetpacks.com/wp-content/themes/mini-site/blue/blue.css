@@ -1,0 +1,110 @@
+/*  
+Theme Name: miniSite blue
+Description: Corporate Business Wordpress Theme 3
+
+*/
+/*---------------------------------------------------
+                 CSS File
+------------------------------------------------------*/
+
+/* Global
+------------------------------------------------------*/
+#navigator-menu{
+ background-color: #000000;
+}
+#pageHeader ul li a {
+color: #fffdfe;
+}
+#pageHeader ul li.current-menu-item  a,#pageHeader ul li.current-menu-item:hover  a{
+background:#BA0202!important;color: #fffdfe!important;
+}
+#pageHeader ul li.current-menu-parent  a,#pageHeader ul li.current-menu-parent:hover  a{
+background:#BA0202!important;color: #fffdfe!important;
+}
+#pageHeader ul.menu li:hover a {
+background:#BA0202;color: #fffdfe!important;
+}
+#top-container{
+	background-image: url("images/sweeIm_bg_up.jpg");
+}
+h1.title{
+color: #079af3;
+}
+#search_webBox {
+    background: url("images/sweeIm_home_page_search_bg.png") no-repeat scroll 0 5px transparent;
+}
+#search_webBox #q {
+	background-color: #9DA5B8;
+}
+#searchSubmit {
+    background: url("images/sweeIm_home_page_icon_search.jpg") no-repeat scroll 28px 8px transparent;
+	color: #9DA5B8;
+}
+#search_webBox #s {
+    background-color: #11253e;
+	color:#b5b9bf; 
+}
+#breadcrumb ul li a {
+    color: #808798;
+}
+#breadcrumb ul.menu li a.current {
+    color: #020202;
+}
+#breadcrumb ul.menu li a.current span {
+    color: #020202;
+}
+#breadcrumb  a {
+    color: #808798;
+}
+#breadcrumb  a.current {  
+    color: #020202;
+}
+#breadcrumb a.current span {
+    color: #434343;
+}
+#centertop {
+	background: url('images/sweeIm_bg_down.jpg') repeat-x;
+}
+#centermiddle {
+    background-color: #FFFFFF;
+    color: #555555;
+}
+#counter {
+	background: url("images/SweetPacksSite_LP_userInteractions.jpg") no-repeat scroll ;
+}
+.box {
+    background: url("images/boxLogo.jpg") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+}
+.box span {
+    color: #9DA5B8;
+}
+.btnFooterLinks {
+    color: #787E89;
+}
+#pageCenterText h3{
+color: #7DBF1F;
+}
+#pageFooterText {
+    color: #079AF3;
+}
+#pageCenterText p{
+color: #434343;
+}
+h2.faq-category, h2.faq-category-title,div#widgetTitleWrapper{
+background: url("images/faq_stripe.png") no-repeat scroll 0 0 transparent!important;
+color: #FFFFFF;
+}
+#our_details a{
+	color:#2e95ff!important;
+}
+.faq-question{
+background: url("images/sweeIm_FQA_arrow.png") no-repeat scroll 0 0 transparent;
+}
+.faq-question a{
+	color:#030303!important;
+}
+.category_desc,.category_desc p{
+	color:#434343!important;
+}
+	
